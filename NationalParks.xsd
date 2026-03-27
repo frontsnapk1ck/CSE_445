@@ -1,4 +1,4 @@
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="https://frontsnapk1ck.github.io/CSE_445/" xmlns="https://frontsnapk1ck.github.io/CSE_445/" elementFormDefault="qualified">
     <xsd:element name="NationalParks">
         <xsd:complexType>
             <xsd:sequence>
